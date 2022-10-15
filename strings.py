@@ -29,3 +29,5 @@ a = "Files"
 print(a[0])
 print(a[2])
 print(a[4])
+b = len(a)
+print(b)git
