@@ -17,4 +17,3 @@ elif year >= 6 <= 10:
     print("Your net salary is -",salary+salary*8/100)
 else:
     print("Your net salary is -",salary+salary*5/100)
-    
