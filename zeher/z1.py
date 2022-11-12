@@ -24,7 +24,7 @@ elif choice == 'b':
    print (num_1, " - ", num_2, " = ", subtract(num_1, num_2))    
     
 elif choice == 'c':    
-   print (num1, " * ", num2, " = ", multiply(num1, num2))    
+   print (num_1, " * ", num_2, " = ", multiply(num_1, num_2))    
 elif choice == 'd':    
    print (num_1, " / ", num_2, " = ", divide(num_1, num_2))    
 else:    
