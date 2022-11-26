@@ -1,0 +1,16 @@
+#tuples store multipleitems in a single variable
+#ordered,unchangeable,  
+my_tuple=("orange")
+print(my_tuple)
+my_tuple1=("orange",)
+print(my_tuple1)
+my_tuple2=("orange","apple","pineapple","grapes")
+print(my_tuple2)
+print(my_tuple2[1])
+print(my_tuple2[-1])
+print(my_tuple2[0:])
+l=list(my_tuple2)
+print(l)
+l.pop()
+t=tuple(l)
+print(t)
