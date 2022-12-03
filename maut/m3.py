@@ -9,3 +9,7 @@ dict1 = {
         }
     }
 }
+
+i=0
+for i in dict1:
+    print(i, d[i])
