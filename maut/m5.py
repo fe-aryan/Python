@@ -20,3 +20,9 @@ list5 = [10,20,30,40,50]
 #Triple the values of this function
 mulNum = list(map(lambda i : i*3,list5))
 print(mulNum)
+
+list6 = ["a", "B", "c", "D", "e", "f"]
+#Change uppercase to lowercase
+
+uppNum = list(map(lambda x: x.lower(),list6))  #Can use swapcase
+print(uppNum)
