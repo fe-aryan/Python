@@ -8,7 +8,7 @@ class car:
 
 car1 = car()
 car2 = car()
-car.wheels=5#static variable class ke through change hota hai
+car.wheels=5 #static variable class ke through change hota hai
 
 print(car1.mileage,car1.wheels)
 print(car2.mileage,car2.wheels)
