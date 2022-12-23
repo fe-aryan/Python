@@ -25,4 +25,5 @@ class Bus(Vehicle):
 # Example usage
 bus = Bus("Ford", "E350", 2020, "blue", 40)
 bus.honk() # prints "Honk honk!"
-bus.pick_up_passengers(5) # prints "Picked up 5 passengers. 35 seats remaining."
+bus.pick_up_passengers(5) 
+# prints "Picked up 5 passengers. 35 seats remaining."
